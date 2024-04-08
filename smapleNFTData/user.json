@@ -1,0 +1,195 @@
+[
+  {
+    "creatorName": "مبین کاکه ای",
+    "nftImage": "nft-image-1.png",
+    "userImage": "user-1.png",
+    "accountAddress": "0x829BD824B016326A401d083B33D092293333A830",
+    "creatorId": "1",
+    "intro": "توسعه دهنده وب و بلاکچین",
+    "collectiables": [
+      {
+        "type": "image",
+        "like": 342,
+        "nftImage": "nft-image-2.png",
+        "likeProfile": ["user-1.png", "user-2.png", "user-4.png", "user-3.png"],
+        "nftName": "هنرهای انتزاعی",
+        "nftId": 1,
+        "nftPrice": 2.0,
+        "offerTiming": 4
+      },
+      {
+        "type": "image",
+        "like": 342,
+        "nftImage": "nft-image-1.png",
+        "likeProfile": ["user-5.png", "user-6.png", "user-7.png", "user-8.png"],
+        "nftName": "جنگل",
+        "nftId": 2,
+        "nftPrice": 3.0,
+        "offerTiming": 1
+      },
+      {
+        "type": "image",
+        "like": 32,
+        "nftImage": "nft-image-3.png",
+        "likeProfile": [
+          "user-9.png",
+          "user-10.png",
+          "user-1.png",
+          "user-2.png"
+        ],
+        "nftName": "باغ وحش ",
+        "nftId": 3,
+        "nftPrice": 9.0,
+        "offerTiming": 4
+      },
+      {
+        "type": "image",
+        "like": 12,
+        "nftImage": "nft-image-1.png",
+        "likeProfile": ["user-3.png", "user-1.png", "user-4.png", "user-5.png"],
+        "nftName": "تاریخ",
+        "nftId": 4,
+        "nftPrice": 3.0,
+        "offerTiming": 14
+      },
+      {
+        "type": "image",
+        "like": 442,
+        "nftImage": "nft-image-3.png",
+        "likeProfile": ["user-6.png", "user-7.png", "user-8.png", "user-9.png"],
+        "nftName": "گردشگری",
+        "nftId": 5,
+        "nftPrice": 7.0,
+        "offerTiming": 9
+      }
+    ],
+    "created": [
+      {
+        "type": "image",
+        "nftImage": "nft-image-1.png",
+        "like": 342,
+        "likeProfile": ["user-1.png", "user-2.png", "user-4.png", "user-3.png"],
+        "nftName": "منظومه شمسی",
+        "nftId": 1,
+        "nftPrice": 2.0,
+        "offerTiming": 4
+      },
+      {
+        "type": "image",
+        "like": 342,
+        "nftImage": "nft-image-3.png",
+        "likeProfile": ["user-5.png", "user-6.png", "user-7.png", "user-8.png"],
+        "nftName": "مریخ",
+        "nftId": 2,
+        "nftPrice": 3.0,
+        "offerTiming": 1
+      },
+      {
+        "type": "image",
+        "like": 32,
+        "nftImage": "nft-image-2.png",
+        "likeProfile": [
+          "user-9.png",
+          "user-10.png",
+          "user-1.png",
+          "user-2.png"
+        ],
+        "nftName": "متاورس",
+        "nftId": 3,
+        "nftPrice": 9.0,
+        "offerTiming": 4
+      },
+      {
+        "type": "image",
+        "like": 12,
+        "nftImage": "nft-image-2.png",
+        "likeProfile": ["user-3.png", "user-1.png", "user-4.png", "user-5.png"],
+        "nftName": "بیت کوین",
+        "nftId": 4,
+        "nftPrice": 3.0,
+        "offerTiming": 14
+      },
+      {
+        "type": "image",
+        "like": 442,
+        "nftImage": "nft-image-3.png",
+        "likeProfile": ["user-6.png", "user-7.png", "user-8.png", "user-9.png"],
+        "nftName": "اتریوم",
+        "nftId": 5,
+        "nftPrice": 7.0,
+        "offerTiming": 9
+      }
+    ],
+    "liked": [
+      {
+        "type": "image",
+        "nftImage": "nft-image-1.png",
+        "like": 342,
+        "likeProfile": ["user-1.png", "user-2.png", "user-4.png", "user-3.png"],
+        "nftName": "پالیگان",
+        "nftId": 1,
+        "nftPrice": 2.0,
+        "offerTiming": 4
+      },
+      {
+        "type": "image",
+        "like": 342,
+        "nftImage": "nft-image-3.png",
+        "likeProfile": ["user-5.png", "user-6.png", "user-7.png", "user-8.png"],
+        "nftName": "فایننس",
+        "nftId": 2,
+        "nftPrice": 3.0,
+        "offerTiming": 1
+      },
+      {
+        "type": "image",
+        "like": 32,
+        "nftImage": "nft-image-2.png",
+        "likeProfile": [
+          "user-9.png",
+          "user-10.png",
+          "user-1.png",
+          "user-2.png"
+        ],
+        "nftName": "وردپرس",
+        "nftId": 3,
+        "nftPrice": 9.0,
+        "offerTiming": 4
+      }
+    ],
+    "followers": [
+      {
+        "name": "میدیا عزیزی",
+        "userImage": "user-1.png",
+        "description": " Cryptopunk Collector, hoarder of NFTs. Contributing to @ether_cards, an NFT Monetization Platform",
+        "bool": true
+      },
+      {
+        "name": "ساهره محمود پور",
+        "userImage": "user-2.png",
+        "description": "@ether_cards, an NFT Monetization Platform Cryptopunk Collector, hoarder of NFTs. Contributing to",
+        "bool": true
+      }
+    ],
+    "following": [
+      {
+        "name": "ساهره محمود پور",
+        "userImage": "user-3.png",
+        "description": " Cryptopunk Collector, hoarder of NFTs. Contributing to @ether_cards, an NFT Monetization Platform",
+        "bool": true
+      },
+      {
+        "name": "محمد کریمی",
+        "userImage": "user-5.png",
+        "description": "@ether_cards, an NFT Monetization Platform Cryptopunk Collector, hoarder of NFTs. Contributing to",
+        "bool": true
+      },
+      {
+        "name": "پارسا ربیعی",
+        "userImage": "user-9.png",
+        "description": "@ether_cards, an NFT Monetization Platform Cryptopunk Collector, hoarder of NFTs. Contributing to",
+        "bool": true
+      }
+    ]
+  }
+]

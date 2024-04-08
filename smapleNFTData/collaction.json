@@ -1,0 +1,74 @@
+[
+  {
+    "name": "جهان جنگلی",
+    "collection": 1,
+    "collectionBackground": "creatorbackground-1.png",
+    "images": [
+      "creatorbackground-2.png",
+      "creatorbackground-3.png",
+      "creatorbackground-4.png"
+    ],
+    "creator": "هِندی جون",
+    "totalItems": 23,
+    "grandTotal": 1.5456,
+    "description": "کارافورو خانه‌ی ۵٬۵۵۵ هنر تولیدی است که در آن رنگ‌ها حکمرانی می‌کنند. از واقعیت کسالت‌بار خارج شده و به دنیای کارافورو توسط موزه اسباب‌بازی‌ها وارد شوید.",
+    "floorPrice": {
+      "name": "قیمت کف",
+      "price": "$358689.034",
+      "growthRate": "+12.11%"
+    },
+    "volume": {
+      "name": "حجم",
+      "price": "$58689.034"
+    },
+    "latestPrice": "$8749.083"
+  },
+  {
+    "name": "جهان مجازی",
+    "collection": 2,
+    "collectionBackground": "creatorbackground-5.png",
+    "images": [
+      "creatorbackground-6.png",
+      "creatorbackground-7.png",
+      "creatorbackground-8.png"
+    ],
+    "creator": "جون",
+    "totalItems": 233,
+    "grandTotal": 2.5456,
+    "description": "کارافورو خانه‌ی ۵٬۵۵۵ هنر تولیدی است که در آن رنگ‌ها حکمرانی می‌کنند. از واقعیت کسالت‌بار خارج شده و به دنیای کارافورو توسط موزه اسباب‌بازی‌ها وارد شوید.",
+    "floorPrice": {
+      "name": "قیمت کف",
+      "price": "$128689.034",
+      "growthRate": "+11.11%"
+    },
+    "volume": {
+      "name": "حجم",
+      "price": "$48689.034"
+    },
+    "latestPrice": "$2749.083"
+  },
+  {
+    "name": "جهان مجازی",
+    "collection": 3,
+    "collectionBackground": "creatorbackground-9.png",
+    "images": [
+      "creatorbackground-10.png",
+      "creatorbackground-11.png",
+      "creatorbackground-1.png"
+    ],
+    "creator": " جهان",
+    "totalItems": 33,
+    "grandTotal": 6.5456,
+    "description": "کارافورو خانه‌ی ۵٬۵۵۵ هنر تولیدی است که در آن رنگ‌ها حکمرانی می‌کنند. از واقعیت کسالت‌بار خارج شده و به دنیای کارافورو توسط موزه اسباب‌بازی‌ها وارد شوید.",
+    "floorPrice": {
+      "name": "قیمت کف",
+      "price": "$458689.034",
+      "growthRate": "+41.11%"
+    },
+    "volume": {
+      "name": "حجم",
+      "price": "$68689.034"
+    },
+    "latestPrice": "$9749.083"
+  }
+]
